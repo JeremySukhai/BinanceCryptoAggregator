@@ -24,7 +24,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Jeremy1599/Binance-Flask-App">
+  <a href="">
     <img src="https://public.bnbstatic.com/image/cms/blog/20200707/631c823b-886e-4e46-b12f-29e5fdc0882e.png" alt="Logo" width="80" height="80">
   </a>
 
