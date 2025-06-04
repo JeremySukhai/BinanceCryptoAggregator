@@ -1,0 +1,2 @@
+apiKey = 'ThytBorZdPkpJZz1oTOodVPiXw2EIoeJBAPu74CMS0LAIK2gpVSTBCuK4Nr6RxV5'
+apiSecret = 'qP7njzDEbET1rqzitrb9X29FOA67hDybQmOTYoRxVAhPhYnHrLzOwM8qhw9y3Nlk'
