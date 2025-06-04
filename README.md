@@ -148,11 +148,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
-
-## Contact
-
-Project Link: [https://github.com/Jeremy1599/Binance-Flask-App](https://github.com/Jeremy1599/Binance-Flask-App)
 
 
 
